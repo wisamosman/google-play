@@ -16,3 +16,14 @@
 .w1{
     background-color: #FFFFFF;
 }
+.q4{
+    font-size: 15px;
+    font-weight: 700;
+}
+.q5{
+display: inline;
+    background-color: #58B096;
+    padding: 5px 25px 5px 25px;
+    border-radius:20px ;
+    margin-left: 10px;
+}
