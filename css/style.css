@@ -66,3 +66,22 @@ h5{
     margin-left: 35px;
 
 }
+.r3{
+    padding: 15px;
+    background-color:#FFFC00;
+    border: 0px solid black;
+    border-radius: 25px;
+}
+.r5{
+    padding: 15px;
+    background-color:black;
+    border: 0px solid black;
+    border-radius: 25px;
+}
+.r6{
+    padding: 15px;
+    background-color: #FF00AC;
+    border: 0px solid black;
+    border-radius: 25px;
+  
+}
