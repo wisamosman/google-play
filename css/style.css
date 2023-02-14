@@ -85,3 +85,27 @@ h5{
     border-radius: 25px;
   
 }
+.r11{
+    
+    
+    border: 0px solid black;
+    border-radius: 25px;
+}
+.r21{
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 26px;
+}
+.r111{
+    padding: 5px;
+    background-color:#0C76E8;
+    border: 0px solid black;
+    border-radius: 15px;
+
+}
+.r1112{
+    padding: 5px;
+    background-color:#071340;
+    border: 0px solid black;
+    border-radius: 15px;
+}
