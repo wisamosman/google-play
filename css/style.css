@@ -29,9 +29,9 @@ display: inline;
 }
 .q8{
     background-color: #F8BBD0;
-    margin-left: -24px;
-    padding-top: 35px;
-    padding-bottom: 15px;
+    margin-left: -60px;
+    padding-top: 40px;
+    padding-bottom: 86px;
 
 }
 .q6{
@@ -43,4 +43,14 @@ h5{
 }
 .q10{
     font-weight: 600;
+}
+.q11{
+    background-color: #05052F;
+    color: white;
+    margin-left: -60px;
+    padding-top: 40px;
+    padding-bottom: 86px;
+}
+.img-fluid{
+    height: 230px;
 }
