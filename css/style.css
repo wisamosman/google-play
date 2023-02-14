@@ -51,6 +51,18 @@ h5{
     padding-top: 40px;
     padding-bottom: 86px;
 }
-.img-fluid{
+.y1{
     height: 230px;
+}
+.r1{
+    padding: 15px;
+    background-color:white;
+    border: 0px solid black;
+    border-radius: 25px;
+}
+.r2{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 35px;
+
 }
