@@ -27,3 +27,20 @@ display: inline;
     border-radius:20px ;
     margin-left: 10px;
 }
+.q8{
+    background-color: #F8BBD0;
+    margin-left: -24px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+
+}
+.q6{
+    border-radius: 100px;
+    background-color: #F8BBD0;
+}
+h5{
+    font-weight: 700;
+}
+.q10{
+    font-weight: 600;
+}
